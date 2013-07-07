@@ -2,7 +2,10 @@ Worldmap Customisation Tool
 ===========================
 <h2> Features </h2>
 <ul>
-  <li></li>
+  <li>Generate world map based on user choice. User can select all countries or particular set of countries</li>
+  <li>This tool generate JavaScript code based on user selection. So user can directly copy the code to view his selection</li>
+  <li>With the code, this tool is also helps the user to see his selection of countries on the file. User can see his selection by clicking on "demo" link</li>
+  <li>Then this tool will display "World Map" on the fly <li> 
 </ul>
 
 <h2>
