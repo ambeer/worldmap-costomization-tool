@@ -1,5 +1,7 @@
 Worldmap Customisation Tool
 ===========================
+<h2> Demo</h2>
+<a href="http://i63.in/wmap/"> http://i63.in/wmap/ </a>
 <h2> Features </h2>
 <ul>
   <li>Generate world map based on user choice. User can select all countries or particular set of countries</li>

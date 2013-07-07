@@ -1,0 +1,111 @@
+#worldMap{
+	height: 4	00px;
+    left: 0;
+    position: absolute;
+    top: 100px;
+    width: 956px;
+    z-index: -1;
+	overflow:auto;	
+}
+#locDetailsList{
+	overflow:auto;
+	margin-top:10px;
+	font-size:13px;	
+	color:#000;	
+}
+#locHeading{
+	background-color: #EDEDED;
+	font-size: 10pt;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	color:#000000;
+}
+/*Light box CSS */
+#lightbox{
+	display:none;
+	float:right;
+	width:630px;
+	height:340px;
+	position:absolute;
+	top:100px;
+	left:383px;
+	background-color:#ffffff;
+	border:5px solid #9C202B;
+	z-index: 100;
+}
+#lightbox2{
+	 background-color: #FFFFFF;
+    border: 5px solid #9C202B;
+    display: none;
+    height: 500px;
+    /* left: 116px;
+ */    overflow: hidden;
+    position: absolute;
+    top: 100px;
+    width: 965px;
+    z-index: 100;
+	
+}
+#locDetails{
+	overflow:auto;
+	width:630px;
+	height:291px;
+}
+/*#worldMap{
+	overflow:auto;
+	width:630px;
+	height:340px;
+}*/
+/* When lightbox is highlighted */
+#grayBackground{
+	display:none;
+	background-color: #000;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	width:100%;
+	height:100%;
+	position:absolute;
+	z-index: 99;
+}
+.lbClose1{
+	background-color:#9C202B;
+}
+.lbClose{
+	background-color:#9C202B;
+	
+}
+#close{
+	color: #FFFFFF;
+    cursor: pointer;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 0 0 0 575px;
+    padding: 5px 2px 2px;
+    text-transform: uppercase;
+    width: 40px;
+}
+#close1{
+	 color: #FFFFFF;
+    cursor: pointer;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 0 0 0 900px;
+    padding: 5px 2px 2px; 
+    text-transform: uppercase;
+    width: 40px;
+}
+#vSource{
+	  color: #FFFFFF;
+    cursor: pointer;
+    display: inline;
+    float: left;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 0 0 0 10px;
+    padding: 5px 2px 2px;
+    text-transform: uppercase;
+    width: 86px;
+}
