@@ -4,10 +4,11 @@ Worldmap Customisation Tool
 <a href="http://i63.in/wmap/"> http://i63.in/wmap/ </a>
 <h2> Features </h2>
 <ul>
-  <li>Generate world map based on user choice. User can select all countries or particular set of countries</li>
-  <li>This tool generate JavaScript code based on user selection. So user can directly copy the code to view his selection</li>
-  <li>With the code, this tool is also helps the user to see his selection of countries on the file. User can see his selection by clicking on "demo" link</li>
-  <li>Then this tool will display "World Map" on the fly </li> 
+  <li> User can Generate world map by selecting all countries or particular set of countries with his preffered colour choice <li>
+  <li> This tool generate JavaScript code based on user selection. So the user can directly copy the code to view his selection (OR) </li>
+  <li> This tool helps the user to see world map based on his/her selection. </li>
+  <li> After selecting the choice, user can click on "Genere" Button, then the tool will display the code with "Demo" (top left corner) link on lightbox </li>
+  <li> By clicking on "Demo" link (top left corner on lightbox) user can see his world map selection </li> 
 </ul>
 
 <h2>
@@ -24,4 +25,4 @@ Worldmap Customisation Tool
 
 <h2> Dependency </h2>
 
-<li> Used <a href="http://raphaeljs.com/">Raphael JS </a> library ( for getting map co-ordinates. </li>
+<li> Used <a href="http://raphaeljs.com/">Raphael JS </a> library ( for getting map co-ordinates)</li>
