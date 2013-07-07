@@ -1,2 +1,7 @@
-worldmap-costomization-tool
+Worldmap Customisation Tool
 ===========================
+
+Browser Support
+
+===========================
+
